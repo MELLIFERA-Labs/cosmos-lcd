@@ -8,7 +8,7 @@
 ## install
 
 ```sh
-npm install cosmos-lcd
+npm install @mellifera/cosmos-lcd
 ```
 ## Usage 
   
