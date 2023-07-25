@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "lcd client for cosmos chains ",
   "author": "Ruslan Glaznyov <ruslan.glaznyov@gmail.com>",
-  "homepage": "https://github.com/ruslanglaznyov/cosmos-lcd#readme",
+  "homepage": "https://github.com/MELLIFERA-Labs/cosmos-lcd#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
