@@ -13,7 +13,7 @@ npm install @mellifera/cosmos-lcd
 ## Usage 
   
 ```js
-const {cosmos} = require('cosmos-lcd')
+const {cosmos} = require('@mellifera/cosmos-lcd')
 const main = async () => {
    const client = await cosmos.ClientFactory.createLCDClient({ restEndpoint: REST_URL });
    const result = await client.cosmos.staking.v1beta1.validators({})
