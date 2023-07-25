@@ -1,6 +1,6 @@
 {
   "name": "@mellifera/cosmos-lcd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lcd client for cosmos chains ",
   "author": "Ruslan Glaznyov <ruslan.glaznyov@gmail.com>",
   "homepage": "https://github.com/ruslanglaznyov/cosmos-lcd#readme",
@@ -37,7 +37,12 @@
     "type": "git",
     "url": "https://github.com/MELLIFERA-Labs/cosmos-lcd"
   },
-  "keywords": ["cosmos", "LCD", "REST", "cosmos-hub"],
+  "keywords": [
+    "cosmos",
+    "LCD",
+    "REST",
+    "cosmos-hub"
+  ],
   "bugs": {
     "url": "hhttps://github.com/MELLIFERA-Labs/cosmos-lcd/issues"
   },
